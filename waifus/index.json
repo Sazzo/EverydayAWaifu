@@ -1,0 +1,147 @@
+[
+    {
+        "id":"1",
+        "name":"Echidna",
+        "image":"images/1.png"
+    },
+    {
+        "id":"2",
+        "name":"Kurisu Makise",
+        "image":"images/2.png"
+    },
+    {
+        "id":"3",
+        "name":"Kaguya Shinomiya",
+        "image":"images/3.png"
+    },
+    {
+        "id":"4",
+        "name":"Kei Shirogane",
+        "image":"images/4.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Ai Hayasaka",
+        "image":"images/5.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Endorsi Jahad",
+        "image":"images/6.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Rem",
+        "image":"images/7.png"
+    },
+    {
+        "id":"8",
+        "name":"Ram",
+        "image":"images/8.png"
+    },
+    {
+        "id":"9",
+        "name":"Asuna Yuuki",
+        "image":"images/9.png"
+    },
+    {
+        "id":"10",
+        "name":"Yukino Yukinoshita",
+        "image":"images/10.png"
+    },
+    {
+        "id":"11",
+        "name":"Yui Yuigahama",
+        "image":"images/11.png"
+    },
+    {
+        "id":"12",
+        "name":"Satanichia Kurumizawa McDowell",
+        "image":"images/12.png"
+    },
+    {
+        "id":"13",
+        "name":"Mai Sakurajima",
+        "image":"images/13.png"
+    },
+    {
+        "id":"14",
+        "name":"Hitagi Senjougahara",
+        "image":"images/14.jpg"
+    },
+    {
+        "id":"15",
+        "name":"Nadeko Sengoku",
+        "image":"images/15.png"
+    },
+    {
+        "id":"16",
+        "name":"Tsubasa Hanekawa",
+        "image":"images/16.png"
+    },
+    {
+        "id":"17",
+        "name":"Mayoi Hachikuji",
+        "image":"images/17.png"
+    },
+    {
+        "id":"18",
+        "name":"Suruga Kanbaru",
+        "image":"images/18.jpg"
+    },
+    {
+        "id":"19",
+        "name":"Shinobu Oshino",
+        "image":"images/19.png"
+    },
+    {
+        "id":"20",
+        "name":"Karen Araragi",
+        "image":"images/20.jpg"
+    },
+    {
+        "id":"22",
+        "name":"Tsukihi Araragi",
+        "image":"images/21.jpg"
+    },
+    {
+        "id":"23",
+        "name":"Suguha Kirigaya",
+        "image":"images/23.jpg"
+    },
+    {
+        "id":"24",
+        "name":"Keiko Ayano",
+        "image":"images/24.jpg"
+    },
+    {
+        "id":"25",
+        "name":"Yui",
+        "image":"images/25.jpg"
+    },
+    {
+        "id":"26",
+        "name":"Gabriel Tenma White",
+        "image":"images/26.png"
+    },
+    {
+        "id":"27",
+        "name":"Raphiel Shiraha Ainsworth",
+        "image":"images/27.png"
+    },
+    {
+        "id":"28",
+        "name":"Vignette Tsukinose April",
+        "image":"images/28.png"
+    },
+    {
+        "id":"29",
+        "name":"Emilia",
+        "image":"images/29.jpg"
+    },
+    {
+        "id":"30",
+        "name":"Crusch Karsten",
+        "image":"images/30.jpg"
+    }
+]
