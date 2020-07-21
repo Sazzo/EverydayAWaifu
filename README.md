@@ -1,7 +1,7 @@
 <h1 align="center">Every day A Waifu</h1>
 <p align="center">💖 The Twitter bot that posts every day a different waifu to brighten your day.</p>
 <div align="center">
-<a href="https://twitter.com/day_waifu><img src="https://img.shields.io/twitter/follow/day_waifu?style=social"></a>
+<a href="https://twitter.com/day_waifu"><img src="https://img.shields.io/twitter/follow/day_waifu?style=social"></a>
 </div>
 
 ## Adding a waifu:
