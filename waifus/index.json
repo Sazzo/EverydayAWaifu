@@ -143,5 +143,50 @@
         "id":"30",
         "name":"Crusch Karsten",
         "image":"images/30.jpg"
+    },
+    {
+        "id":"31",
+        "name":"Megumin",
+        "image":"images/31.png"
+    },
+    {
+        "id":"32",
+        "name":"Aqua",
+        "image":"images/32.png"
+    },
+    {
+        "id":"33",
+        "name":"Darkness",
+        "image":"images/33.png"
+    },
+    {
+        "id":"34",
+        "name":"Yunyun",
+        "image":"images/34.png"
+    },
+    {
+        "id":"35",
+        "name":"Wiz",
+        "image":"images/35.png"
+    },
+    {
+        "id":"36",
+        "name":"Mayuri Shiina",
+        "image":"images/36.jpg"
+    },
+    {
+        "id":"37",
+        "name":"Suzuha Amane",
+        "image":"images/37.png"
+    },
+    {
+        "id":"38",
+        "name":"Rumiho Akiha",
+        "image":"images/38.jpg"
+    },
+    {
+        "id":"39",
+        "name":"Moeka Kiryuu",
+        "image":"images/39.jpg"
     }
 ]
